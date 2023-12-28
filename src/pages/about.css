@@ -1,0 +1,42 @@
+/* about.css */
+
+.m-5 {
+    margin: 1.25rem;
+}
+
+.text-gray-700 {
+    color: #4a5568;
+}
+
+.mb-4 {
+    margin-bottom: 1rem;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.font-semibold {
+    font-weight: 600;
+}
+
+.list-disc {
+    list-style-type: disc;
+}
+
+.list-inside {
+    list-style-position: inside;
+}
+
+/* Additional styles for contact information */
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+
+.contact-info {
+    font-size: 1.1rem;
+}
+
+.email {
+    color: #3182ce; /* Blue color for email */
+}
