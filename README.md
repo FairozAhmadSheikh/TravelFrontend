@@ -13,6 +13,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+# How it Looks
+![Screenshot 2024-01-01 064623](https://github.com/FairozAhmadSheikh/TravelFrontend/assets/134375617/af144f28-bf9f-4b46-946c-588b0a09db49)
+![Screenshot 2024-01-01 010030](https://github.com/FairozAhmadSheikh/TravelFrontend/assets/134375617/9925c724-a049-4d7d-9773-20d735675352)
+![Screenshot 2024-01-01 064823](https://github.com/FairozAhmadSheikh/TravelFrontend/assets/134375617/68dee35d-375c-401b-b819-9498f9320952)
+![Screenshot 2024-01-01 064705](https://github.com/FairozAhmadSheikh/TravelFrontend/assets/134375617/1c497c5a-48dc-4d71-b098-f828d9c36857)
+
 
 ### `npm test`
 
